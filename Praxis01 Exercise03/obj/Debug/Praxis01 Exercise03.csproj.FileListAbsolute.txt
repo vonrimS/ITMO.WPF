@@ -13,3 +13,7 @@ D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Praxis01 Ex
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Praxis01 Exercise03.csproj.CoreCompileInputs.cache
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Praxis01 Exercise03.exe
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Praxis01 Exercise03.pdb
+D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Page1.g.cs
+D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Page2.g.cs
+D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Page1.baml
+D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Praxis01 Exercise03\obj\Debug\Page2.baml
