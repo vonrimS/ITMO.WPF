@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Praxis03_Exercise03
+namespace Praxis04_Exercise01
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -47,8 +47,6 @@ namespace Praxis03_Exercise03
             isDataDirty = false;
         }
         private void RetBut()
-
-
         {
             System.IO.StreamReader sr = new System.IO.StreamReader(nameFile);
             retLabel.Content = "Hi there, my dear " + sr.ReadToEnd();
