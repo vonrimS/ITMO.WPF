@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Praxis07_Exercise01"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300"  Closing="Window_Closing">
+        Title="MainWindow" Height="350" Width="500" MinHeight="350" MinWidth="300" Background="{StaticResource gradientStyle}"  Closing="Window_Closing">
     <Window.Resources>
         <Style TargetType="TextBox">
             <Style.Setters>

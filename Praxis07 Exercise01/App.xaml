@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:Praxis07_Exercise01"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <ResourceDictionary Source="ShinyRed.xaml"/>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ShinyRed.xaml"/>
+                <ResourceDictionary Source="MyDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Praxis07_Exercise01"
         mc:Ignorable="d"
-        Title="MyWindow" Height="450" Width="800"  Closing="Window_Closing" Closed="Window_Closed">
+        Title="MyWindow" Height="450" Width="800" Background="{StaticResource gradientStyle}"  Closing="Window_Closing" Closed="Window_Closed">
 
     <Window.Resources>
         <Style TargetType="Button">
@@ -99,7 +99,6 @@
 
     <Grid>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="80" Margin="139,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="25,64,0,0" VerticalAlignment="Top" Height="70" Width="70" Click="Button_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="52,157,0,0" VerticalAlignment="Top" Height="70" Width="70" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="25,64,0,0" VerticalAlignment="Top" Height="70" Width="70" Click="Button_Click" Template="{DynamicResource customButtonTemplate}"/>
     </Grid>
 </Window>
