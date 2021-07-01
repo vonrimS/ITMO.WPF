@@ -56,7 +56,9 @@ namespace Praxis08_Exercise01
             wnd1 = Owner as MainWindow;
             if (wnd1 != null)
             {
-                wnd1.txtBlock.Text = textBox.Text;
+                string choosenStudent = listBox1.SelectedItem.ToString();
+                wnd1.txtBlock.Text = choosenStudent + textBox.Text;
+                
                 PrintLogFile();
             }
             Close();

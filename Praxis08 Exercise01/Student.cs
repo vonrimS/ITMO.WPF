@@ -19,6 +19,12 @@ namespace Praxis08_Exercise01
             StudentName = name;
             IsEnrolled = ch;
         }
+
+        public override string ToString()
+        {
+            return StudentName + "\tРегистрация: " + IsEnrolled + "\n";
+        }
+
         public string FullStudentData
         {
             get { return StudentName + "\t" + IsEnrolled; }
@@ -29,7 +35,7 @@ namespace Praxis08_Exercise01
 
     public class StudentList : ObservableCollection<Student>
     {
-        public StudentList() : base()
+        public StudentList() /*: base()*/
         {
             Add(new Student("Lorin Kanev", true));
             Add(new Student("Ivan Petrov", true));

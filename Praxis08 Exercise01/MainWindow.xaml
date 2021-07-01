@@ -89,7 +89,6 @@
             </MenuItem>
             
         </Menu>
-        <Label x:Name="lbl" HorizontalAlignment="Center" VerticalAlignment="Top">Пуск</Label>
 
         <StatusBar x:Name="stb" DockPanel.Dock="Bottom">
             <StatusBarItem x:Name="stb1">
