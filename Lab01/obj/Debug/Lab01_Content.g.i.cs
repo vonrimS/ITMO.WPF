@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("watermark.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("data/data.xml")]
 
 
