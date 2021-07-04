@@ -17,3 +17,4 @@ D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Lab01\obj\Debug\ExpenseItHome.g.cs
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Lab01\obj\Debug\ExpenseItHome.baml
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Lab01\obj\Debug\ExpenseReportPage.g.cs
 D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Lab01\obj\Debug\ExpenseReportPage.baml
+D:\CODING\__PLAYGROUND\ITMO\WPF\Praxis\Lab01\obj\Debug\App.baml
